@@ -1,0 +1,1 @@
+OpenBowling is an automated scoring project for small to medium size bowling centers that currently do not have automated scoring.
